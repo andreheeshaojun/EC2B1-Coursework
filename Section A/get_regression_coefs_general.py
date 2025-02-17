@@ -45,5 +45,3 @@ def get_regression_coefs(Y, *args):
 
     # Congratulations we just ran a regression.
     return coefs
-
-
